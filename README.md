@@ -16,12 +16,10 @@
 
 ---
 
-## 📊 GitHub Analytics:
+## 📊 GitHub Analytics
 
-&nbsp; ![Farid's Stats](https://github-readme-stats.vercel.app/api?username=FaridTvK&show_icons=true&theme=solarized-dark&rank_icon=github&count_private=true)
-&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaridTvK&layout=compact&theme=solarized-dark)
+![Farid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FaridTvK&show_icons=true&theme=solarized-dark&count_private=true&include_all_commits=true)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=FaridTvK&theme=solarized-dark&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaridTvK&layout=compact&theme=solarized-dark&hide_border=false)
 
----
-![Visitor Count](https://visitcount.itsvg.in/api?id=FaridTvK&icon=0&color=0)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FaridTvK&theme=solarized-dark)
