@@ -20,4 +20,3 @@
 
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FaridTvK&show_icons=true&theme=solarized-dark)
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FaridTvK&layout=compact&theme=solarized-dark)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=FaridTvK&theme=solarized-dark)
