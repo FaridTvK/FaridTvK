@@ -13,10 +13,3 @@
 
 ### 🛠 Tools & Deployment
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
-
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FaridTvK&show_icons=true&theme=solarized-dark)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FaridTvK&layout=compact&theme=solarized-dark)
